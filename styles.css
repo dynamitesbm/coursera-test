@@ -1,0 +1,16 @@
+/* tagname{property: value;} */
+/* tagname .classname #id */
+body {
+  background-color: aqua;
+  color: black;
+}
+
+p {
+  color: white;
+}
+.water {
+  color: brown;
+}
+#bread {
+  color: blue;
+}
